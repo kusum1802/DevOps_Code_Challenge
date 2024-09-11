@@ -1,4 +1,4 @@
-key-pem-2.pem
+key-pair-2.pem
 .terraform
 terraform.tfstate
 terraform.tfstate.backup
